@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**AlbertoTrevizo/albertotrevizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alberto Trevizo and I'm a Software Engineer, from Mexico.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Creating bugs since 2017<br>
+📚 I'm currently learning to be an AI Engineer<br>
+🎯 Goals: Build things and services<br>
+🎲 Fun fact: I occasionally disappear into a rave
+
+## I code with
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,tailwind,react,redux,astro,nodejs,express,graphql,jest,git,linux,vscode,postgres,mongodb)](https://skillicons.dev)
