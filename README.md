@@ -11,4 +11,4 @@ My name is Alberto Trevizo and I'm a Software Engineer, from Mexico.
 
 ## I code with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,tailwind,react,redux,astro,nodejs,express,graphql,jest,git,linux,vscode,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,tailwind,react,redux,astro,nodejs,express,graphql,jest,git,linux,vscode,postgres,mongodb)](https://albertotrevizo.netlify.app/#stack)
