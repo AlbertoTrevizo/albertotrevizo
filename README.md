@@ -15,8 +15,7 @@ My name is Alberto Trevizo and I'm a Software Engineer, from Mexico.
 
 I also teach programming with simple examples at **Curiosida.devs** (in Spanish).
 
-[![Website](https://img.shields.io/badge/curiosidadevs.com-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curiosidadevs.com/)
-
+[![curiosidadevs.com](icons/curiosidadevs.svg)](https://curiosidadevs.com/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/curiosida.devs/)
 [![TikTok](icons/tiktok.svg)](https://www.tiktok.com/@curiosida.devs)
 [![YouTube](icons/youtube.svg)](https://www.youtube.com/@curiosida.devs404)
